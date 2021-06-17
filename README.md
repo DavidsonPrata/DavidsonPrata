@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidsonPrata
 - 👀 I’m interested in Python, Machine Learning and Videogames! = )
-- 🌱 I’m currently learning an introdutory Python course on Coursera.
-- 💞️ I’m looking to collaborate on anything where I can learn more and develope my skills.
+- 🌱 I’m currently learning an introductory Python course on Coursera.
+- 💞️ I’m looking to collaborate on anything where I can learn more and develop my skills.
 - 📫 Reach me on my Twitter. 
 
 <!---
